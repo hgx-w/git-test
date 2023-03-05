@@ -5,4 +5,6 @@ You are a cat.
 ddkagkjlagjk
 dagjljg 
 
+Test remote connection, from 02_git.
+
 Test remote connection, from 03_git.
